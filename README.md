@@ -65,7 +65,7 @@ The challenge is to:
 
 ## Dataset
 
-**File:** `data/Case_Data.csv`  
+**File:** `data/Case_Data.csv`( https://www.kaggle.com/datasets/hetvigandhi03/loan-risk-analysis-dataset-real-world-data )  
 **Source:** LendingClub charged-off loan records  
 **Records:** ~501 rows  
 **Columns:** 50 original columns (after cleaning: 52 with engineered features)  
